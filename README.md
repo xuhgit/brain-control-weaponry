@@ -13,7 +13,7 @@ https://github.com/xuhgit/brain-control-weaponry/wiki/Resources
 * It can control people or animals to speak, make decisions, and move their limbs, and has a database to store all valuable brain thinking patterns. What are its functions? You can imagine.
 
 * 根据距离制造声音，可以覆盖原来的声音，比如地铁报站，该制造的声音通过声波传递，具体见 https://youtu.be/aWx0Es-HFe8 可以让人快速浅睡眠，根据浅睡眠状态的大脑环境模拟梦境，输入的图像让人看到东西。
-* According to the distance to create sound, can override the original sound, such as the underground station announcement, the manufactured sound through the sound wave transmission, see https://youtu.be/aWx0Es-HFe8  It can make people fast light sleep, according to the light sleep state of the brain environment to simulate the dream, the input image to make people see things.
+* According to the distance to create sound, can override the original sound, such as the underground station announcement, the manufactured sound through the sound wave transmission, see https://youtu.be/aWx0Es-HFe8  It can make people fast light sleep, according to the light sleep state of the brain environment to simulate the dream, with the input image to make people see things.
 
 * 如果是通过脑神经上的微粒来增删改查脑部活动信息，那么可以hack这些微粒，只要是技术就一定有破绽。
 * If it is through the particles on the brain to add, delete and check the brain activity information, then you can hack these particles, as long as the technology must have broken.
