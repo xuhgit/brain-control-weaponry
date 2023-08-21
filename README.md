@@ -18,5 +18,12 @@ https://github.com/xuhgit/brain-control-weaponry/wiki/Resources
 * 如果是通过脑神经上的微粒来增删改查脑部活动信息，那么可以hack这些微粒，只要是技术就一定有破绽。
 * If it is through the particles on the brain to add, delete and check the brain activity information, then you can hack these particles, as long as the technology must have broken.
 
-* targeted individual 的所有电子设备都被监控，篡改。
+* targeted individual （目标人）的所有电子设备都被监控，篡改。
 * All of the targeted individual's electronic devices are being monitored and tampered with.
+
+每个人都有不同的脑电波频率组合特征码，在计算机分析后，按照特定的频率组合特征码制作出特定的脑电波信号，以模拟该脑电波信号的电磁波发射向人脑，就会实现思维的植入。如果发射强度大，就会覆盖人体原始脑电波信号，从而实现脑控。
+更加秘密和更具科技含量的脑电波脑控迫害 - 突然一个外来的思维打入思想，和目标人进行交流。这个思维可以让人自己觉得自己要去跳楼和做其它一些非常危险的事情。这是另一种秘密的迫害方式－－脑电波思维植入即脑控迫害。
+
+Each person has a different brain wave frequency combination feature code, after computer analysis, according to the specific frequency combination feature code to produce a specific brain wave signal, to simulate the brain wave signal electromagnetic wave emission to the human brain, it will achieve the implantation of thinking. If the intensity of the emission is high, it will cover the original brain wave signal of the human body, thus realising brain control.
+
+More secretive and more technological brainwave brain control persecution - Suddenly an alien mind hits the mind and communicates with the target person. This thought can make the person themselves feel like they are going to jump off a building and do some other very dangerous things. This is another secret form of persecution ¬- brainwave thought implantation or brain control persecution.
