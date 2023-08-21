@@ -21,9 +21,13 @@ https://github.com/xuhgit/brain-control-weaponry/wiki/Resources
 * targeted individual （目标人）的所有电子设备都被监控，篡改。
 * All of the targeted individual's electronic devices are being monitored and tampered with.
 
-每个人都有不同的脑电波频率组合特征码，在计算机分析后，按照特定的频率组合特征码制作出特定的脑电波信号，以模拟该脑电波信号的电磁波发射向人脑，就会实现思维的植入。如果发射强度大，就会覆盖人体原始脑电波信号，从而实现脑控。
+（每个人都有不同的脑电波频率组合特征码，在计算机分析后，按照特定的频率组合特征码制作出特定的脑电波信号，以模拟该脑电波信号的电磁波发射向人脑，就会实现思维的植入。如果发射强度大，就会覆盖人体原始脑电波信号，从而实现脑控。
 更加秘密和更具科技含量的脑电波脑控迫害 - 突然一个外来的思维打入思想，和目标人进行交流。这个思维可以让人自己觉得自己要去跳楼和做其它一些非常危险的事情。这是另一种秘密的迫害方式－－脑电波思维植入即脑控迫害。
 
 Each person has a different brain wave frequency combination feature code, after computer analysis, according to the specific frequency combination feature code to produce a specific brain wave signal, to simulate the brain wave signal electromagnetic wave emission to the human brain, it will achieve the implantation of thinking. If the intensity of the emission is high, it will cover the original brain wave signal of the human body, thus realising brain control.
 
 More secretive and more technological brainwave brain control persecution - Suddenly an alien mind hits the mind and communicates with the target person. This thought can make the person themselves feel like they are going to jump off a building and do some other very dangerous things. This is another secret form of persecution ¬- brainwave thought implantation or brain control persecution.
+
+电磁波长期辐射人体会使体内铁分子发生游离、震荡、分解，主要的特征是血像呈现白血球、红血球数量下降，血液中的铁分子大量消失。同时对免疫系统造成损伤，心率加快、血压降低，甚至使人体细胞发生癌变。
+
+Electromagnetic wave radiation for a long time will make the iron molecules in the body free, shock, decomposition, the main characteristic is that the blood image shows white blood cells, the number of red blood cells decreased, and a large number of iron molecules in the blood disappeared. At the same time, it damages the immune system, accelerates the heart rate, lowers the blood pressure, and even causes cancerous changes in human cells.）
