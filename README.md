@@ -6,6 +6,15 @@ https://github.com/xuhgit/brain-control-weaponry/wiki/Resources
 * 如果你生活在中国，或者曾经到过中国，你觉得大数据太了解你了，那么一个可能是你的一切思维都在被异步的传到数据库中，这些数据库中可能有一部分被用在了广告系统。
 * If you live in China, or have been to China, and you think big data knows you too well, then one possibility is that all your thoughts are being asynchronously transmitted to the database, and some of these databases may be used in advertising system.
 
+* 视觉信息可以被远程输入的信息完全替换，你闭上眼睛，所有的视觉信息都不是你想到的，而是别人让你想到的。
+* Visual information can be completely replaced by information input remotely. When you close your eyes, all the visual information is not what you think of, but what others make you think of.
+
+* 立刻让大脑不能思考，比如立刻进入深度睡眠，这能造成车祸，不能实现阅读和逻辑思维。
+* Immediately prevent the brain from thinking, such as entering deep sleep immediately, which can cause car accidents and prevent reading and logical thinking.
+
+* 现在在一部分非自愿接受人体实验的目标人群中正在进行一种实验，这种实验的目的可能在于在能够完全可以远程控制人脑的各种感知觉之后，能不能通过人的介入，实现更高级的认知，思维，情感等替换，在一个目标群体还是在其自身岗位的时候，让其成为中国的傀儡。
+* An experiment is currently being carried out among some of the target groups who have involuntarily accepted human experiments. The purpose of this experiment may be to realize whether the various sensory perceptions of the human brain can be completely controlled remotely, and whether it can achieve more advanced functions through human intervention. Replacement of cognition, thinking, emotions, etc., makes a target group become a puppet of China while it is still in its own position.
+
 * 让人立刻进入深度睡眠，更好的提取整个脑活动特征，让传递到脑中的信号和脑活动特征更接近，从而达到在各种状态下被动接受思维内容，思维模式的效用。此信号可以作用于脑中任何一个区域，视觉，听觉，语言，嗅觉，触觉等一切大脑功能区域。你以为是你在思考，其实是别人写到你思维中的让你思考的内容。克隆一次大脑或者读取大脑的数据需要的时间约1小时 - 4小时(我会统计更多的数据来估计整个过程，整个过程就是不断的构建梦境，因为在读取数据过后会有一段时间的睡眠时间，让你忘记整个读取数据的过程，每个到过中国的人，都被收集了睡眠状态下的大脑数据，可以在这些人不知情的状态下替换这个人思考的内容，说出的话。)。
 * Let people enter deep sleep immediately, better extract the characteristics of the entire brain activity, and make the signal transmitted to the brain and the characteristics of brain activity closer, so as to achieve the effect of passively accepting thinking content and thinking mode in various states. This signal can act on any area of the brain, including vision, hearing, language, smell, touch and all brain functional areas. You think you are thinking, but it is what someone else wrote into your mind that made you think. I will count more data to estimate the whole process, the whole process is to constantly build dreams, because there will be a period of sleep time after reading the data, so that you forget the whole process of reading the data.
 
