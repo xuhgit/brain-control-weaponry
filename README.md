@@ -2,6 +2,8 @@ Wiki
 https://github.com/xuhgit/brain-control-weaponry/wiki/Resources
 
 
+* 能限制任何大脑的活动区域，如让人在清醒状态下完全不能思考。让人保持植物人的状态。
+* It can limit any area of brain activity, such as making a person completely unable to think while awake. Keep people in a vegetative state.
 
 * 如果你生活在中国，或者曾经到过中国，你觉得大数据太了解你了，那么一个可能是你的一切思维都在被异步的传到数据库中，这些数据库中可能有一部分被用在了广告系统。
 * If you live in China, or have been to China, and you think big data knows you too well, then one possibility is that all your thoughts are being asynchronously transmitted to the database, and some of these databases may be used in advertising system.
