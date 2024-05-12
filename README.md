@@ -1,6 +1,8 @@
 Wiki
 https://github.com/xuhgit/brain-control-weaponry/wiki/Resources
 
+* 替换思维，替换思维的过程中人是没有自己的思维的，也就是说别人替你思考。也就是说这个技术可以读写思维，视觉听觉知觉大脑能做到的事情，在感知觉层面，都能被增删改查，可是这个技术存在这么久为什么还在人身上做实验？因为它无法实现改变一个人。
+* Replacement thinking, replacement thinking process people do not have their own thinking, that is to say, other people think for you. That is to say, this technology can read and write thinking, visual auditory perceptual brain can do things, in the perceptual level, can be added, deleted, changed and checked, but this technology exists for so long why still do experiments on people? Because it can't change a person.
 
 * 能限制任何大脑的活动区域，如让人在清醒状态下完全不能思考。让人保持植物人的状态。
 * It can limit any area of brain activity, such as making a person completely unable to think while awake. Keep people in a vegetative state.
